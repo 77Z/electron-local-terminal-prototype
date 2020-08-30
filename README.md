@@ -1,0 +1,3 @@
+# electron-local-terminal-prototype
+
+# Just a prototype...
